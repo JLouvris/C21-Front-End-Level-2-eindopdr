@@ -2,7 +2,6 @@ function Test() {
     document.getElementById("blok").style.display = "block";
 }
 
-
 function pic() {
     document.getElementById("pic").style.display = "block";
 }
